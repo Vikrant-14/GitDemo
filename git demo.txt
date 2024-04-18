@@ -6,3 +6,5 @@ git demo
 git new branch created
 git hello-world-images added
 
+git updated through GITHUB
+
